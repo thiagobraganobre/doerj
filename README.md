@@ -1,4 +1,11 @@
 # Robô DOERJ
-Robô para obter o Diário Oficial do Estado do RJ atual.
+Robô para obter o Diário Oficial do Estado do RJ. 
 
-Tecnologia: node.js
+A macro codifica a data atual em base 64 e verifica qual o último arquivo publicado do Poder Executivo.
+
+Poderia coletar os processos eletrônicos (SEI), nomeações, decretos, despachos, etc.
+
+<b> Tecnologia: node.js </b>
+
+contato:<br />
+https://panxola.wordpress.com/
