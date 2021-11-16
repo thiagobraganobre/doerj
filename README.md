@@ -9,5 +9,4 @@ Poderia coletar os processos eletrônicos (SEI), nomeações, decretos, despacho
 <br />Versão: 13.10.0
 
 
-contato:<br />
-https://panxola.wordpress.com/
+
